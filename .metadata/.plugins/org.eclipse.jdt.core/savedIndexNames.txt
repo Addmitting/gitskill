@@ -1,0 +1,6 @@
+INDEX VERSION 1.126+C:\Users\DELL\learngit\gitskill\.metadata\.plugins\org.eclipse.jdt.core
+1402357566.index
+2694072233.index
+2253648961.index
+476327378.index
+3268632705.index
